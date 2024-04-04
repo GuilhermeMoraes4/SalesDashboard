@@ -9,7 +9,9 @@
 <h1>## Funcionalidades</h1>
 
 :heavy_check_mark: Análise detalhada das vendas por equipe e consultor
+
 :heavy_check_mark: Visualização da distribuição de propaganda
+
 :heavy_check_mark: Indicadores de desempenho
 
 <h1>## Pré-requisitos</h1>
